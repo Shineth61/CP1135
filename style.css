@@ -3,6 +3,7 @@ body {
     margin: 20px;
     padding: 0;
     background-color: red;
+    color: blue;
 }
 header, footer {
     background-color: #333;
